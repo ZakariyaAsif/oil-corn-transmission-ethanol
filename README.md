@@ -1,4 +1,4 @@
-# oil2corn-transmission-ethanol
+# oil-corn-transmission-ethanol
 Oil–Corn Futures Transmission: The Role of Ethanol Economics
 
 (1) Overview
