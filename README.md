@@ -32,10 +32,11 @@ for standalone trading strategies.
   - conditional comparisons
 
 (4) Repository Structure
-- report/: final write-up
-- notebooks/: data processing and analysis
-- outputs/: charts used in report
-- data_clean/: processed dataset
+- README.MD: synopsis
+- When do Oil Shocks Move Corn - Evidence for Ethanol Mediated Transmission in Commodity Markets.pdf: Finalized Report
+- data_raw/: unprocessed datasets.
+- data_clean/: processed and merged dataset.
+- notebooks/: data cleaning and analysis workbooks.
 
 (5) How to Reproduce
 Run notebooks in order:
